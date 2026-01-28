@@ -1,4 +1,4 @@
-#👋 Hi, I'm Rithika Kothapalli
+# 👋 Hi, I'm Rithika Kothapalli
 
 🚀 Data Scientist | AI Engineer | Analytics & Automation Specialist
 📍 Virginia, USA
